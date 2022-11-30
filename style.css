@@ -1,0 +1,10 @@
+.section {
+    display: flex;
+    flex-direction: column;
+
+    &-1 {
+        .wrapper {
+            gap: var(--space-4)
+        }
+    }
+}
