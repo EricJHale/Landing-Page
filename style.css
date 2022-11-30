@@ -48,4 +48,25 @@ body {
     margin: 0px;
 }
 
-.section-one
+.section-one,
+.footer{
+    background-color: #1F2937;
+}
+
+.placeholder {
+    text-align: center;
+    color: #F9FAF8;
+    width: 500px;
+    height: 200px;
+    background-color: grey;
+}
+
+.placeholder p{
+    margin: 90x 0 0 0;
+}
+
+.links a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
