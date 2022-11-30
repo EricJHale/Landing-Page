@@ -1,0 +1,10 @@
+body,
+.section-one,
+.second,
+.third,
+.img-subtext,
+.cta-textbox{
+    display: flex;
+    flex-direction: column;
+    }
+
