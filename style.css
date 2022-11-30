@@ -17,4 +17,25 @@ body,
     display: flex;
 }
 
+.second-header{
+    text-align: center;
+}
+
+.img-subtext p{
+    width:180px;
+    text-align: center;
+}
+
+.second-images {
+    margin-left: auto;
+    margin-right: auto;
+    gap:20px;
+}
+
+.img-subtext img{
+    height:200px
+    border: radius 10px;
+    border: solid blue 2px;
+    width:200px;
+}
 
