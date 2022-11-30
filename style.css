@@ -62,7 +62,7 @@ body {
 }
 
 .placeholder p{
-    margin: 90x 0 0 0;
+    margin:90x 0 0 0;
 }
 
 .links a{
@@ -99,6 +99,23 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.first-button{
+    background-color: #3882F6;
+    border-color: #3882F6;
+    border-radius: 10px;
+    color:#F9FAF8;
+    padding:0;
+    width:100px;
+    height:30px;
+}
+
+
 
 
 
