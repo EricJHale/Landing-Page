@@ -73,11 +73,11 @@ body {
 
 .first-container{
     padding-bottom: 100px;
-    width:470px;
+    width: 470px;
 }
 
 .header{
-    gap:450px;
+    gap: 450px;
 }
 
 .first{
@@ -85,6 +85,13 @@ body {
     align-items: center;
 }
 
-.first {
-
+.top {
+    align-items: center;
 }
+
+.first-header{
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8
+}
+
