@@ -24,3 +24,12 @@ body,
     width: 200px;
     text-align: center;
 }
+
+.img-subtext img{
+    height: 200px;
+    border-radius: 10px;
+    border: solid blue 2px;
+    width: 200px;
+    
+    
+}
