@@ -8,3 +8,15 @@ body,
     flex-direction: column;
     }
 
+.header,
+.first,
+.second-images,
+.fourth,
+.links{
+    display: flex;
+}
+
+.second-header{
+    text-align: center;
+}
+
