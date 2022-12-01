@@ -118,8 +118,8 @@ main h2 {
     display: flex;
     justify-content: center;
     align-items: center
-    flex-wrap; wrap;
-    margin: 48px 0px 96px 0px;
+    flex-wrap: wrap;
+    margin: 48px 0 96px 0;
 }
 
 .card {
@@ -164,6 +164,10 @@ main h2 {
     font-size: 24px;
     color:#1f2937; 
 }
+
+
+
+.sign-up
 
 
 
