@@ -114,6 +114,14 @@ main h2 {
     color:#1f2937
 }
 
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center
+    flex-wrap; wrap;
+    margin: 48px 0px 96px 0px;
+}
+
 
 
 
