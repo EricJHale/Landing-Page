@@ -167,7 +167,15 @@ main h2 {
 
 
 
-.sign-up
+.sign-up {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 48px;
+    width: 100%;
+    border-radius: 10px;
+}
 
 
 
