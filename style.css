@@ -198,6 +198,17 @@ strong {
 
 
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    background-color: #1f2937;
+    color: #fff;
+}
+
+
+
 
 
 
