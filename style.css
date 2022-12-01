@@ -118,8 +118,8 @@ main h2 {
     display: flex;
     justify-content: center;
     align-items: center
-    flex-wrap; wrap:
-    margin; 48px 0 96px 0;
+    flex-wrap: wrap;
+    margin: 48px 0 96px 0;
 }
 
 .card {
