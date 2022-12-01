@@ -9,5 +9,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    background-color: #1f2937;
+    padding: 16px 120px;
+}
+
 
 
