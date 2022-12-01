@@ -177,6 +177,16 @@ main h2 {
     border-radius: 10px;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #3882F6;
+    padding: 48px;
+    width: 100%;
+    border-radius: 10%;
+}
+
 
 
 
