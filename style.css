@@ -9,10 +9,14 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+
+
 header {
     background-color: #1f2937;
     padding: 16px 120px;
 }
+
+
 
 #logo {
     font-size: 24px;
@@ -36,7 +40,35 @@ a:link {
     font-size: 18px;
     color:#e5e7eb;
     text-decoration: none;
+    
 }
+
+a:visited {
+    color:#e5e7eb
+}
+
+
+
+.welcome {
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.welcome .left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.welcome .right {
+    flex-shrink: 0;
+    width: 50%;
+}
+
+
 
 
 
