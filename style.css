@@ -149,7 +149,19 @@ main h2 {
     padding: 100px 120px;
 }
 
+.quote em {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1f2937;
+}
 
+.quote p {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 24px;
+    color:#1f2937
+}
 
 
 
