@@ -79,6 +79,14 @@ a:visited {
     color: #e5e7eb;
 }
 
+button {
+    padding: 7px 16px;
+    width: 120px;
+    background-color: #3882F6;
+    border-radius: 8px;
+}
+
+
 
 
 
