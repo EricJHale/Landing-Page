@@ -26,18 +26,16 @@ header {
     align-items: baseline;
 }
 
-.nav .ul {
+.nav ul {
     display: flex;
     gap: 20px;
     list-style-type: none;
+    text-decoration: none;
 }
 
-.secondary,
-a:link {
-    font-size: 18px;
-    color: E5E7EB;
+.right {
+    display: flex;
     text-decoration: none;
-
 }
 
 
