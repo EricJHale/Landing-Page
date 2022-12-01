@@ -30,13 +30,16 @@ header {
     display: flex;
     gap: 20px;
     list-style-type: none;
+}
+
+a:link {
+    font-size: 18px;
+    color:#e5e7eb;
     text-decoration: none;
 }
 
-.right {
-    display: flex;
-    text-decoration: none;
-}
+
+
 
 
 
